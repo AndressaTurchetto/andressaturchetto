@@ -11,8 +11,8 @@
 ##
 
 
-- 🔭 Trabalho com Front-end
-- 🌱 Estou estudando Javascript
+- 🔭 Desenvolvedora Front-end
+- 🌱 Estudante de Engenharia de Software - Estácio
 - 📫 Contate-me por e-mail: and.turchetto@gmail.com
 - 😄 ela/dela
 
