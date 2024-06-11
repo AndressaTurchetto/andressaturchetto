@@ -22,7 +22,7 @@
 </div>
 
 ##
-[![Andressa Turchetto github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndressaTurchetto&bg_color=0d1117&color=FF9EAA&line=FF9EAA&point=FF9EAA&area=true&border_color=FF9EAA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Andressa Turchetto github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndressaTurchetto&bg_color=0d1117&color=FF9EAA&line=FF9EAA&point=FF9EAA&area=true&border_color=FF9EAA)](#)
 
 ##  🏆 Troféus GitHub:
 <div style="display: flex">
@@ -39,6 +39,6 @@
 
 ##  💰 Agora você já pode me pagar um café! 
 
-[![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FF9EAA&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/simoneitads)
+[![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FF9EAA&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](#)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=AndressaTurchetto&color=FF9EAA">
