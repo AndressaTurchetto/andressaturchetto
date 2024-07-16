@@ -4,7 +4,11 @@
 
  ## 🚀 **Sobre mim**
 
-<br/>Olá, meu nome é Andressa Turchetto! Moro em Colombo, Paraná e estou em transição de carreira para a área de TI. Trabalho na Planium como desenvolvedora e procuro resolver problemas e transforma-los em designs de interface modernos e agradáveis. Também me esforço para escrever códigos eficientes, sejam em HTML, CSS, Tailwind, JavaScript, Typescript ou utilizando bibliotecas ou framework como o Angular e Bootstrap.
+<br/>Olá, meu nome é Andressa Turchetto! Sou de Colombo, Paraná.
+Sou desenvolvedora Front-End na Planium, procuro resolver problemas e transformá-los em designs de interface modernos e agradáveis. 
+Como profissional me esforço para escrever códigos eficientes, seguindo as boas práticas e estou sempre me atualizando para meu desenvolvimento pessoal e profissional, tenho boa comunicação, bom trabalho em equipe, pró-atividade e muita curiosidade.
+Principais tecnologias: HTML, CSS, Sass, Less, Tailwind, Bootstrap, JavaScript, TypeScript, Angular, WordPress, Node e versionamento de código com Git, GitHub e GitLab.
+Estudo também com a Escola da Nuvem com foco em Cloud para a AWS Certified Cloud Practitioner.
 
 ## 🎓 **Minha Formação:**
 
