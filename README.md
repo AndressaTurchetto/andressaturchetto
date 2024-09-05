@@ -4,11 +4,40 @@
 
  ## 🚀 **Sobre mim**
 
-<br/>Olá, meu nome é Andressa Turchetto! Sou de Colombo, Paraná.
-Sou desenvolvedora Front-End na Planium, procuro resolver problemas e transformá-los em designs de interface modernos e agradáveis. 
-Como profissional me esforço para escrever códigos eficientes, seguindo as boas práticas e estou sempre me atualizando para meu desenvolvimento pessoal e profissional, tenho boa comunicação, bom trabalho em equipe, pró-atividade e muita curiosidade.
-Principais tecnologias: HTML, CSS, Sass, Less, Tailwind, Bootstrap, JavaScript, TypeScript, Angular, WordPress, Node e versionamento de código com Git, GitHub e GitLab.
-Estudo também com a Escola da Nuvem com foco em Cloud para a AWS Certified Cloud Practitioner.
+<br/>Hello World 👏🏻🌎
+🇧🇷 Colombo - PR | Brazil 
+💻 PROGRAMMER
+👩🏻‍💻 FRONT-END DEVELOPER
+⌨️ FULL STACK 
+🚀 SOFTWARE ENGINEER 
+☁️ AWS CLOUD COMPUTING
+❤️ ACTIVE PARTICIPANT IN DEVS COMMUNITIES
+
+💢 TECHNOLOGIES ⚠️
+
+-HTML and CSS
+- TAILWIND 
+- ANGLED
+- BOOTSTRAP 
+- WORDPRESS 
+- JAVASCRIPT and TYPESCRIPT 
+- FIGMA and DESIGN FUNDAMENTALS
+- SCRUN and KANBAN
+- SEO and AI
+-GIT and GITHUB
+-NODE.js
+- MARY DB
+- SWAGGER
+- AWS FUNDAMENTALS 
+- OS: WINDOWS and LINUX
+
+⚒️ At PLANIUM, my passion for technology translates into the creation of web interfaces, where I use Angular and Tailwind to deliver high-performance solutions. Actively collaborate with multidisciplinary teams, applying agile methodologies to meet complex business requirements. 
+
+🤓📚 As a Software Engineering student at Estácio, I am expanding my technical knowledge, which allows me to innovate and seek excellence in the development of web projects. My goal is to continue growing as a developer, contributing with technological solutions that positively impact the user experience.
+
+
+📩 and.turchetto@gmail.com
+📍 https://github.com/AndressaTurchetto
 
 ## 🎓 **Minha Formação:**
 
