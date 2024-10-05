@@ -5,31 +5,36 @@
  ## 🚀 **Sobre mim**
 
 <br/>Hello World 👏🏻🌎
-🇧🇷 Colombo - PR | Brazil 
-💻 PROGRAMMER
+🇧🇷 Curitiba - PR | Brazil 
+💻 PROGRAMADORA | DESENVOLVEDORA DE SOFTWARE
 👩🏻‍💻 FRONT-END DEVELOPER
-⌨️ FULL STACK 
+⌨️ FULL-STACK 
 🚀 SOFTWARE ENGINEER 
-☁️ AWS CLOUD COMPUTING
-❤️ ACTIVE PARTICIPANT IN DEVS COMMUNITIES
+☁️ CLOUD COMPUTING AWS
+❤️ PARTICIPANTE ATIVA EM COMUNIDADES DEVS
 
-💢 TECHNOLOGIES ⚠️
+💢 TECNOLOGIAS ⚠️
 
--HTML and CSS
+- HTML e CSS
+- SASS e SCSS
 - TAILWIND 
-- ANGLED
+- ANGULAR
+- TESTES COM JEST
+- CHATGPT e IA
 - BOOTSTRAP 
 - WORDPRESS 
-- JAVASCRIPT and TYPESCRIPT 
-- FIGMA and DESIGN FUNDAMENTALS
-- SCRUN and KANBAN
-- SEO and AI
--GIT and GITHUB
--NODE.js
-- MARY DB
+- JAVASCRIPT e TYPESCRIPT 
+- FIGMA e FUNDAMENTOS DE DESIGN
+- SCRUM e KANBAN
+- SEO e ACESSIBILIDADE
+- GIT e GITHUB
+- NODE.js
+- MODELAGEM DE DADOS
+- MARIA DB | MySQL
 - SWAGGER
-- AWS FUNDAMENTALS 
-- OS: WINDOWS and LINUX
+- FUNDAMENTOS AWS 
+- SO: WINDOWS e LINUX
+- MICROSSERVIÇOS | ARQUITETURA DE SOFTWARE
 
 ⚒️ At PLANIUM, my passion for technology translates into the creation of web interfaces, where I use Angular and Tailwind to deliver high-performance solutions. Actively collaborate with multidisciplinary teams, applying agile methodologies to meet complex business requirements. 
 
