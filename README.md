@@ -4,7 +4,7 @@
 
 I am an extremely creative person, driven by a passion for solving problems and the combination of entrepreneurship and technology. My true calling is innovation and digital transformation.
 
-At 30 years old, I live in Curitiba, Paraná, and I consider myself a highly communicative professional, with a solid foundation in soft skills. I have more than 1 year of experience in Software Engineering, focusing on Angular, mainly using TypeScript and Node.js. Before entering the technology area, I built a solid career as a salesperson specializing in customer service, which gives me a broader view of the importance of innovation for business success.
+At 30 years old, I live in Brazil, and I consider myself a highly communicative professional, with solid training in soft skills. I have more than 1 year of experience in web development, focusing on Angular, using mainly TypeScript and Node.js. 
 
 I am also an active participant in developer communities, always looking for new challenges and contributing to the technological ecosystem.
 
