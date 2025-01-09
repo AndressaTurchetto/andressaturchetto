@@ -77,20 +77,14 @@ You can contact me on the following social media platforms or by email at:
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/andressadev/">
+  <a href="https://www.linkedin.com/in/andressadev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
- <a href="https://github.com/AndressaTurchetto">
+ <a href="https://github.com/AndressaTurchetto" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
- <a href="https://discord.com/channels/847518545156112424/984895128596533258">
+ <a href="[https://discord.com/channels/847518545156112424/984895128596533258](https://discordapp.com/users/1171814308951380047)" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
- <a href="https://github.com/AndressaTurchetto">
-    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
