@@ -10,13 +10,6 @@ I am also an active participant in developer communities, always looking for new
 
 🤓📚 As a Software Engineering student at Estácio, I am expanding my technical knowledge, which allows me to innovate and seek excellence in the development of web projects. My goal is to continue growing as a developer, contributing with technological solutions that positively impact the user experience.
 
-<a href="[https://andressaturchetto.github.io/andressa/#inicio](https://andressaturchetto.github.io/andressa/site/index.html#inicio)" target="_blank">
-  <button style="background-color: #00FFFF; color: #0d0d0d; padding: 12px 24px; font-size: 18px; font-weight: bold; border: 2px solid #00FFFF; border-radius: 8px; cursor: pointer; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.8); transition: 0.3s ease-in-out;">
-    Acesse meu portfólio
-  </button>
-</a>
-
-
 ## Stacks
 
 <div style="display:grid;align-items:center;justify-content:center">
